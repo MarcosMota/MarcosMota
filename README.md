@@ -10,3 +10,6 @@ I hope that the projects hosted on my Github can be useful to you.
 - 🌱 I’m currently in specialize Deep Learning applied in NLP, Computer Vision and Times Series
 - 💬 Ask me about Data Analytics and Artificial Intelligence
 - 📫 See my blog [Deep Miner](https://deepminer.com.br/)
+
+
+[![Marcos' github stats](https://github-readme-stats.vercel.app/api?username=MarcosMota)](https://github.com/MarcosMota/github-readme-stats)
