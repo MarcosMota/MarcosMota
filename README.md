@@ -11,5 +11,10 @@ I hope that the projects hosted on my Github can be useful to you.
 - 💬 Ask me about Data Analytics and Artificial Intelligence
 - 📫 See my blog [Deep Miner](https://deepminer.com.br/)
 
+### Connect with me
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/marcos-mota/)
+[<img align="left" alt="Instagram" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/instagram.ico" />](https://www.instagram.com/marcosmota.ia/)
+<br />
+
 
 [![Marcos' github stats](https://github-readme-stats.vercel.app/api?username=MarcosMota)](https://github.com/MarcosMota/github-readme-stats)
