@@ -6,7 +6,7 @@ This inspired me to create a blog called [Deep Miner](https://deepminer.com.br/)
 
 I hope that the projects hosted on my Github can be useful to you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Deep Learning applied in NLP, Computer Vision and Times Series
+- 🔭 I’m currently working in [Tree Inova](https://treeinova.com.br/) 
+- 🌱 I’m currently in specialize Deep Learning applied in NLP, Computer Vision and Times Series
 - 💬 Ask me about Data Analytics and Artificial Intelligence
-- 📫 See my blog [marcosmota](marcosmota.com)
+- 📫 See my blog [Deep Miner](https://deepminer.com.br/)
