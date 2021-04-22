@@ -2,7 +2,7 @@
 
 Hello, I'm Marcos Mota, I'm fascinated by working with data because it's amazing how artificial intelligence can change people's lives.
 
-This inspired me to create a blog called (https:deepminer.com.br)[Deep Miner], a place where I publish content that can help people who are looking to learn more about arithmetic intelligence, visual computing, and NLP.
+This inspired me to create a blog called [https:deepminer.com.br](Deep Miner), a place where I publish content that can help people who are looking to learn more about arithmetic intelligence, visual computing, and NLP.
 
 I hope that the projects hosted on my Github can be useful to you.
 
