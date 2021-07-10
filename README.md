@@ -28,9 +28,8 @@ I hope that the projects hosted on my Github can be useful to you.
 
 ---
 ## Latest Deep Learning Projects
-#### Times Sereis
-- [Absenteeism at Work](https://github.com/MarcosMota/TimesSeries-Absenteeism)
-- [Sales Transaction](https://github.com/MarcosMota/TimesSeries-Sales-Transaction)
+#### NLP
+- [Olist Sentiment Analysis](https://github.com/MarcosMota/olist_sentiment_analysis)
 
 #### Computer Vision
 - [Siamese Networks](https://github.com/MarcosMota/Siamese-Networks)
